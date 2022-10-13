@@ -14,6 +14,7 @@ When the user searches for a city, the dashboard will display the following data
 ## Visuals
 
 Here is a screenshot of the dashboard webpage. 
+![Screenshot of deployed weather dashboard](/Assets/weather-dash-demo.png)
 
 
 
@@ -27,5 +28,6 @@ Here is a screenshot of the dashboard webpage.
 
 ## Links
 
-[Deployed Website](https://bethdecarlo.github.io/weather-dashboard/)
-[Repository](https://github.com/bethdecarlo/weather-dashboard/)
+* [Deployed Website](https://bethdecarlo.github.io/weather-dashboard/)
+
+* [Repository](https://github.com/bethdecarlo/weather-dashboard/)
