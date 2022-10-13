@@ -7,8 +7,7 @@ When the user searches for a city, the dashboard will display the following data
 
 * City Name and Current Date
 * A weather icon based on the city's current conditons
-* Current temperature, humidity, and wind index 
-* The current UV index with a color indicating the severety of the UV index - [see the EPA UV Index Color Scale](https://19january2017snapshot.epa.gov/sunsafety/uv-index-scale-1_.html)
+* Current temperature, humidity, wind index, and current UV index 
 * A 5-day forecast for the city with dates, weather icons, temperatures, and humidity
 
 ## Visuals
